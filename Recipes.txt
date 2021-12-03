@@ -6,6 +6,8 @@ Kheer
 Pasta
 Pizza
 Pani Puri
+Masala Puri
+Vada Pav
 
 
 
